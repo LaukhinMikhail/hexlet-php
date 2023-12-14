@@ -1,2 +1,2 @@
 # hexlet-php
-Rep for php stud
+Мой первый проект на Хекслете
