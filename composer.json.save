@@ -9,10 +9,11 @@
     "require": {
         "tightenco/collect": "^9.52",
         "funct/funct": "^1.5"
-    },
+    }
     "autoload": {
         "files": [
-            "src/Runner.php"
+            "src/Pairs.php",
+            "src/Lists.php"
         ]
     }
 }
